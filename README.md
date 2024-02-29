@@ -36,6 +36,9 @@ The project is structured as follows:
 - `routes.js`: Route handlers for the API endpoints
 - `errorHandling.js`: Error handling middleware for the API
 
-## License
+## Postman Collection
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- Open Postman.
+- Click on "Import" in the top left corner of the Postman app.
+- Select the "Choose Files" button and locate the ./note.postman_collection.json
+- Select the file and click "Open" to import it into Postman.
